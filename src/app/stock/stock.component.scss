@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+}
+
+h2 {
+    color: #b7181d;
+    font-weight: 300;
+}
+
+h4 {
+    color: #b7181d;
+    font-weight: 400;
+    font-size: 1.35em;
+}
+
+hr {
+    margin: 0;
+}
+
+h1, h2, h3, h4 {
+    margin-bottom: 1.1em;
+}
+
+.isin-wkn {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.isin-wkn span{
+    margin-right: 15px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
